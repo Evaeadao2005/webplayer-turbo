@@ -1,5 +1,5 @@
 /*----- Player name -----*/
-window.playername = "WOW";
+window.playername = "DALTV";
 
 /*----- DNS -----*/
 //Iptv provider dns url (for example "http://domain.com:80")
